@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # IoT-Data-Analytics-Architecture-for-Omibus-Ferry
 ### IoT data processing architecture on AWS for a transport and payments solution.
 
