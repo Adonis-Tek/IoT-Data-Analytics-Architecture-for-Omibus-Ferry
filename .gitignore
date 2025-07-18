@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.VENV/
+*.env
+
+# MacOS
+.DS_Store
+
+# Draw.io backups
+*.bak
+
+# VSCode
+.vscode/
